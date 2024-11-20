@@ -1,0 +1,25 @@
+1.why we use node.js instead of other language?
+2.what is node.js?
+3.javascript is used for front-end ??
+4.how node.js is created?
+5.why we use JSON?
+6.What is do not repeat principle?
+7.what is npm?
+8.what is package.lock.JSON?
+9.nodemon?
+10.in build modules and external modules in node.js?
+11.what is export and import?
+12.fs-file system,
+   os-operating system
+13.what is callback function?
+14.what is promise,async,await?
+15.write a promise with a example --->resolve,reject
+16.write a async and await with a example ?
+17.what is rest Api?
+18.what is soap Api?
+19.HTTP methods?
+20.what is express.js?
+21.why we use expres.js?
+22.Structure od Api and modern Structure
+23.what is Authentication and Authorazation?
+24.what is Session cookies and tokens?
